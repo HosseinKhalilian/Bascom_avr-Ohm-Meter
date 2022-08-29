@@ -1,4 +1,4 @@
-AVR Ohmmeter
+# AVR Ohmmeter
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
